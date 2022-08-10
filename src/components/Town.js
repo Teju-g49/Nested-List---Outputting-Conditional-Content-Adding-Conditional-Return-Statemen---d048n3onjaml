@@ -11,3 +11,4 @@ function Town({town,id}) {
 }
 
 export default Town
+
